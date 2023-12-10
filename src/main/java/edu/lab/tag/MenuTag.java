@@ -1,9 +1,9 @@
 package edu.lab.tag;
 
 import edu.lab.tag.entity.MenuItem;
-import jakarta.servlet.jsp.JspException;
-import jakarta.servlet.jsp.JspWriter;
-import jakarta.servlet.jsp.tagext.SimpleTagSupport;
+import javax.servlet.jsp.JspException;
+import javax.servlet.jsp.JspWriter;
+import javax.servlet.jsp.tagext.SimpleTagSupport;
 import lombok.Setter;
 
 import java.io.IOException;

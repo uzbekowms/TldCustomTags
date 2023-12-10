@@ -1,6 +1,5 @@
 package edu.lab.repository;
 
-import edu.lab.tag.TableTag;
 import edu.lab.tag.entity.Table;
 import edu.lab.tag.entity.TableRow;
 import lombok.Data;
